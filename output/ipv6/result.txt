@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-23 19:03:14,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
+2026-03-25 18:59:04,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
@@ -128,8 +128,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86$订阅源
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
-山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
-山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
@@ -139,8 +137,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86$订阅源
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86$订阅源
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
-西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
-新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
